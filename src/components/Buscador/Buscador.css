@@ -1,0 +1,47 @@
+.cnt {
+    padding-top: 10px;
+}
+.form-container {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.form-container button {
+    margin-left: 20px;
+}
+.label {
+    padding-right: 10px;
+}
+
+#searchBar{
+    color: aliceblue;
+    font-size: larger;
+}
+#title{
+    width: 280px;
+    height: 60px;
+    overflow: auto;
+    
+}
+
+#title::-webkit-scrollbar {
+    width: 8px;     
+    height: 8px;    
+    display: none;  
+}
+
+#buscar{
+    background: lemonchiffon!important;
+    color: lightcoral;
+}
+#eliminar{
+    background: lemonchiffon!important;
+    color: lightcoral;
+}
+
+#buscadorContenedor{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
