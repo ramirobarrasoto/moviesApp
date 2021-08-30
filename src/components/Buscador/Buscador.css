@@ -15,7 +15,7 @@
 }
 
 #searchBar{
-    color: aliceblue;
+    color: whitesmoke!important;
     font-size: larger;
 }
 #title{
@@ -32,12 +32,12 @@
 }
 
 #buscar{
-    background: lemonchiffon!important;
-    color: lightcoral;
+    background: black!important;
+    color: white;
 }
 #eliminar{
-    background: lemonchiffon!important;
-    color: lightcoral;
+    background: black!important;
+    color: white;
 }
 
 #buscadorContenedor{

@@ -3,7 +3,7 @@
     width: 100%;
     top: 0;
     left: 0;
-    background-color: #711A1D;
+    background-color: blue;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -44,7 +44,7 @@
 
 .list-item a:hover,
 .list-item a.active {
-    background-color: #4d2121;
-    color: white;
+    background-color: #F7CE17!important;
+    color: black!important;
     
 }

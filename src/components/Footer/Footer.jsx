@@ -1,6 +1,6 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import Logo from "../../img/clapperboard.png";
+
+
 
 import "./Footer.css";
 
@@ -12,7 +12,7 @@ export default function Footer() {
         <ul className='list'>
           <li className='list-item'>
             <a
-              href=' '
+              href='https://github.com/ramirobarrasoto'
               target='_blank'
               rel='noopener noreferrer'
               className='link'
@@ -20,7 +20,7 @@ export default function Footer() {
               <i class='fab fa-github-square'></i>
             </a>
             <a
-              href=' '
+              href='https://www.linkedin.com/in/ramiro-barra-soto/'
               target='_blank'
               rel='noopener noreferrer'
               className='link'
@@ -28,7 +28,7 @@ export default function Footer() {
             <i class='fab fa-linkedin'></i>
             </a>
             <a
-              href=' '
+              href='https://portfolio-ramiro-barra.vercel.app/'
               target='_blank'
               rel='noopener noreferrer'
               className='link'

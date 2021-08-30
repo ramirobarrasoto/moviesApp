@@ -24,7 +24,7 @@ function App() {
           <Route exact path="/" component={Buscador} />
           <Route path="/favs" component={Favorites} />
           <Route path="/movie/:id" component={Movie} />
-          <Footer/>
+          <Footer />
       </div>
   );
 }
